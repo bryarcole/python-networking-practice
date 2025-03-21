@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Network related
+*.pcap
+*.cap
+*.pcapng
+*.log
+capture/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+config.ini
+*.config
+*.conf 
